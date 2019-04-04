@@ -48,10 +48,6 @@ ul li a{
 
 }
 
-ul#dropdowntopics li{
-    padding: 5px;
-    background: #2E8B57; 
-}
 
 button#prev{
   background-color: #00a7da; 
@@ -251,6 +247,105 @@ ul li:hover ul li{
    background-color: #50C878;
   color: white;
 }
+
+.button14 {
+  background-color: #32bc89; 
+  color: white; 
+  border: 2px solid white;
+}
+
+.button14:hover {
+   background-color: #50C878;
+  color: white;
+}
+
+.button15 {
+  background-color: #32bc89; 
+  color: white; 
+  border: 2px solid white;
+}
+
+.button15:hover {
+   background-color: #50C878;
+  color: white;
+}
+
+.button16 {
+  background-color: #32bc89; 
+  color: white; 
+  border: 2px solid white;
+}
+
+.button16:hover {
+   background-color: #50C878;
+  color: white;
+}
+
+.button17 {
+  background-color: #32bc89; 
+  color: white; 
+  border: 2px solid white;
+}
+
+.button17:hover {
+   background-color: #50C878;
+  color: white;
+}
+
+.button18 {
+  background-color: #32bc89; 
+  color: white; 
+  border: 2px solid white;
+}
+
+.button18:hover {
+   background-color: #50C878;
+  color: white;
+}
+
+.button19 {
+  background-color: #32bc89; 
+  color: white; 
+  border: 2px solid white;
+}
+
+.button19:hover {
+   background-color: #50C878;
+  color: white;
+}
+
+.button20 {
+  background-color: #32bc89; 
+  color: white; 
+  border: 2px solid white;
+}
+
+.button20:hover {
+   background-color: #50C878;
+  color: white;
+}
+
+.button21 {
+  background-color: #32bc89; 
+  color: white; 
+  border: 2px solid white;
+}
+
+.button21:hover {
+   background-color: #50C878;
+  color: white;
+}
+
+.button22 {
+  background-color: #32bc89; 
+  color: white; 
+  border: 2px solid white;
+}
+
+.button22:hover {
+   background-color: #50C878;
+  color: white;
+}
 .footer {
 	position: relative;
 	bottom: 0;
@@ -260,6 +355,27 @@ ul li:hover ul li{
 	top: 500px;
 }
 
+.button23 {
+  background-color: #32bc89; 
+  color: white; 
+  border: 2px solid white;
+}
+
+.button23:hover {
+   background-color: #50C878;
+  color: white;
+}
+
+.button24 {
+  background-color: #32bc89; 
+  color: white; 
+  border: 2px solid white;
+}
+
+.button24:hover {
+   background-color: #50C878;
+  color: white;
+}
 .copyright {
 	background-color: #4f4f4f;
 	float: right;

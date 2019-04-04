@@ -7,55 +7,51 @@
          <title>CSS</title>
     </head>
         <body>
-            <div class="main">
+           <div class="main">
                 <ul>
                     <a class="logo" href="index.html"><img class="logo" alt= "logo" src="images/logo.png"></a>
                     
                     <li><a href="js.html">JAVA SCRIPT</a></li>
-                    <li><a href="css.html">CSS</a>
-                         <ul id="dropdowntopics">
-                                    <li><a href="css.html">Topics</a></li>
-                                    <li><a href="what_is_css.html">What is CSS?</a></li> 
-                                    <li><a href="who_made.html">Who made CSS?</a></li>
-                                    <li><a href="advantages.html">What are the advantages of CSS?</a></li>
-                                    <li><a href="markup_language.html">Is CSS a Markup Language?</a></li>
-                                    <li><a href="syntax.html">CSS Syntax</a></li>
-                                    <li><a href="css_outline.html">CSS Outline</a></li>
-                                    <li><a href="css_overflow.html">CSS Overflow</a></li>
-                                    <li><a href="css_dimension.html">CSS Dimension</a></li>
-                                    <li><a href="css_display.html">CSS Display</a></li>
-                                    <li><a href="css_visibility.html">CSS Visibility</a></li>
-                                    <li><a href="css_float.html">CSS Float</a><li>
-                                    <li><a href="css_display.html">CSS Display</a></li>
-                            </ul>
-                        </li>
+                    <li><a href="css.html">CSS</a></li>
                     <li><a href="js.html">HTML</a></li>
                 </ul>  
             </div>
              <div class="content">
-                <button id="prev" onclick="window.location.href = 'syntax.html';">Previous Topic</button>
+             <button id="prev" onclick="window.location.href = 'CSS_Margin.html';">Previous Topic</button>
                   <button id="next" onclick="window.location.href = 'css_overflow.html';">Next Topic</button>
                 <h1>CSS Outline</h1>
-                <p>An outline is a line that is drawn just outside the border edge of the elements such as buttons, active form fields, etc., to make them stand out. </p>
-                 <h3>Outline-width Property</h3>
-                 <p>It specifies the width of an outline that to be added on a elements. The keyword used is "outline-width: (thick, thin or meduim)".</p>
-                 <h3>Outline-style Property</h3>
-                <p>It sets the style for an outline like solid, dotted, dashed, double, groove, ridge, insert and  outset.</p>
-                 <img src="images/at_outline1.jpg" alt="sample" style="width:600px;height:100px;">
-                 <h3>Outline-color Property</h3>
-                <p>It sets the color of the outline.</p>
-                 <h3>Outline Shorthand Property</h3>
-                <p>In shorthand you can decraled all the properties in one line code by using single rule.</p>
-                <img src="images/at_outline2.jpg" alt="sample2" style="width:600px;height:100px;">
+                 <p> An outline is a line that is drawn around elements, outside the borders for the element to "stand-out".</p>
+                 <p>CSS has the following outline properties:</p>
+                 <li> outline-style</li>
+                 <li> outline-offset</li>
+                 <li> outline-width</li>
+                 <li> outline-color</li>
+                 <li> outline</li>
+                 
+                 <h2> Outline Color</h2>
+                 <p>The <b>outline-color</b> property is used to set the color of the outline.</p>
+                 <h4>Example: (Try editing it in your css file)</h4>
+                 <pre>p {
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: green;
+}</pre>
+                 <h2>Outline Width</h2>
+                 <p>The outline-width property specifies the width of the outline, here are the following values:</p>
+                 <li> thin (typically 1px)</li>
+                 <li> medium (typically 3px)</li>
+                 <li> thick (typically 5px)</li>
+                 <li> A specific size (in px, pt, cm, em, etc)</li>
+                 <h4>Example: (Try editing it in your css file)</h4>
+                 <pre>p.ex1 {
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: green;
+  outline-width: thin;
+}</pre>
+                 
             </div>
-                
-            
             
     </body>
-      <div class="footer">
- 		<div class = "copyright">
-   			<p>&copy; 2019 Encore</p>
-		</div>
- 	</div>
     
 </html>

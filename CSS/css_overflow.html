@@ -7,37 +7,32 @@
          <title>CSS</title>
     </head>
         <body>
-            <div class="main">
+           <div class="main">
                 <ul>
                     <a class="logo" href="index.html"><img class="logo" alt= "logo" src="images/logo.png"></a>
                     
                     <li><a href="js.html">JAVA SCRIPT</a></li>
-                    <li><a href="css.html">CSS</a>
-                         <ul id="dropdowntopics">
-                                    <li><a href="css.html">Topics</a></li>
-                                    <li><a href="what_is_css.html">What is CSS?</a></li> 
-                                    <li><a href="who_made.html">Who made CSS?</a></li>
-                                    <li><a href="advantages.html">What are the advantages of CSS?</a></li>
-                                    <li><a href="markup_language.html">Is CSS a Markup Language?</a></li>
-                                    <li><a href="syntax.html">CSS Syntax</a></li>
-                                    <li><a href="css_outline.html">CSS Outline</a></li>
-                                    <li><a href="css_overflow.html">CSS Overflow</a></li>
-                                    <li><a href="css_dimension.html">CSS Dimension</a></li>
-                                    <li><a href="css_display.html">CSS Display</a></li>
-                                    <li><a href="css_visibility.html">CSS Visibility</a></li>
-                                    <li><a href="css_float.html">CSS Float</a><li>
-                                    <li><a href="css_display.html">CSS Display</a></li>
-                            </ul>
-                        </li>
+                    <li><a href="css.html">CSS</a></li>
                     <li><a href="js.html">HTML</a></li>
                 </ul>  
             </div>
              <div class="content">
-                <button id="prev" onclick="window.location.href = 'css_outline.html';">Previous Topic</button>
+                <button id="prev" onclick="window.location.href = 'CSS_Outline.html';">Previous Topic</button>
                   <button id="next" onclick="window.location.href = 'css_dimension.html';">Next Topic</button>
                 <h1>CSS Overflow</h1>
                 <p>It is a property used to allow you to specify whether to clip, render scroll bars or display overflow content of a block-level element. </p>
-                 <img src="images/at_of.JPG" alt="sample" style="width:600px;height:100px;">
+                 <p><b>visible</b> - The default value. Content is not clipped; it will be rendered outside the element's box, and may thus overlap other content.</p>
+                 <p><b>hidden</b> - Content that overflows the element's box is clipped and the rest of the content will be invisible.</p>
+                 <p><b>scroll</b> - The overflowing content is clipped, just like hidden, but provides a scrolling mechanism to access the overflowed content.</p>
+                 <p><b>auto</b> - If content overflows the element's box it will automatically provides the scrollbars to see the rest of the content, otherwise scrollbar will not appear.</p>
+                 <h5>Example: (Try editng it in your css file)</h5>
+                 
+                 <pre> div {
+    width: 250px;
+    height: 150px;
+    overflow: scroll;
+}
+</pre>
                  
             </div>    
             
