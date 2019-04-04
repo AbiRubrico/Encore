@@ -1,0 +1,64 @@
+Javascript
+	Javascripts environment is very dynamic you can code your program inside your html codes.
+	<script> is very important in creating a java script which indicates that your Javascript function is already started each line of codes are called STATEMENTS like your java each statements ends with semi-colon (;). 
+	Example:
+		Document.write(“webtek2019);
+Variable
+	In javaScript you can define variable in 2 different types you can define it as var or you can define it as let. Like java you can declare your variable and call it
+	var stmt = “Hello Wurld”
+	var stmt1;
+Global Variable
+	Global variables are javascript codes that can be found outside the <script> where you can call it anytime. 
+Local Variable 
+	Local variables are codes that can be found inside a function, where in Only the Function can call it.
+Functions
+	Set of statements that are combined together. Functions are the body of the code along with the variables.
+	Example
+		Function name()  {
+			//Code
+			}
+DOM 
+	Document object Model (DOM) allows to access the html documents in the script. It usually represented with a tree which contains node, each nodes represent the components of html.
+	
+CODES							FUNCTIONALITIES
+getElementById()			Retrieves references in the DOM
+getElementsByTagName()			Retrieves references in the DOM
+getElementsByClassName()		Retrieves references in the DOM
+getElementsByName()			Retrieves references in the DOM
+querySelector()				Retrieves references in the DOM
+querySelectorAll()			Retrieves references in the DOM
+parentNode				Move the DOM tree from a given node to another
+parentElement				Move the DOM tree from a given node to another
+childNodes				Move the DOM tree from a given node to another
+Children				Move the DOM tree from a given node to another
+firstChild				Move the DOM tree from a given node to another
+lastChild				Move the DOM tree from a given node to another
+nextSibling				Move the DOM tree from a given node to another
+previousSibling				Move the DOM tree from a given node to another
+firstElementChild			Move the DOM tree from a given node to another
+lastElementChild			Move the DOM tree from a given node to another
+nextElementChild			Move the DOM tree from a given node to another
+nextElementSibling			Move the DOM tree from a given node to another
+previousElementSibling			Move the DOM tree from a given node to another
+createElement()				Construct a Node
+createTextNode()			Construct a Node
+createAttribute()			Construct a Node
+cloneNode()				Construct a Node/ Copy a node
+importNode()				Construct a Node
+appendChild()				Controls the DOM tree
+insertBefore()				Controls the DOM tree
+replaceChild()				Controls the DOM tree
+removeChild()				Controls the DOM tree
+adoptNode()				Controls the DOM tree
+addEventListener()			Event handler
+removeEventListener()			Event handler
+dispatchEvent()				Event handler
+styleSheets				Style handler
+ownerRule				Style handler
+cssRule					Style handler
+insertRule()				Style handler
+deleteRule()				Style handler
+getComputedStyle()			Style handler
+
+References:
+https://www.youtube.com/watch?v=xpZLS6R91rQ&list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl
