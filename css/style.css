@@ -144,7 +144,29 @@ td {
 
 }
 
+a.section1 {
+	text-decoration: none;
+	color: white;
+}
 
+a.section1:hover {
+	color:  #00a7da;
+}
+
+a.section2 {
+	margin-top: 10px;
+	color: #3870c9;
+}
+
+.box1 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+.intro {
+	margin-top: 50px;
+}
 
 /*INDEX STYLES--------------------------------------------------------------------------------*/
 /*INDEX STYLES--------------------------------------------------------------------------------*/
@@ -164,6 +186,7 @@ button.start-button{
   margin: auto;
   cursor: pointer;
   border-radius: 4px;
+  outline: none;
   font-family: arial;
 }
 
@@ -195,6 +218,7 @@ button.html-c{
   display: block;
   font-size: 30px;
   cursor: pointer;
+  outline: none;
   font-family: noto sans kr regular;
 }
 
@@ -209,6 +233,7 @@ button.css-c{
   display: block;
   font-size: 30px;
   cursor: pointer;
+  outline: none;
   font-family: noto sans kr regular;
 }
 
@@ -223,6 +248,7 @@ button.js-c{
   display: block;
   font-size: 30px;
   cursor: pointer;
+  outline: none;
   font-family: noto sans kr regular;
 }
 
