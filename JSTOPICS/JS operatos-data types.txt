@@ -1,0 +1,148 @@
+JAVASCRIPT OPERATORS
+
+Arithmetic Operators
+An arithmetic operator in JavaScript includes a variable,literal, or expressions that will return a numeric value from an operand (the numbers that are used in between the operator).
+
+	Ex:
+		var x = 75 + 75; (literals)
+		var x = y + z; (variables)
+		var x = (99 + 65) * y; (expressions)
+    
+TYPES of Arithmetic Operators:
+
+Addition ( + )
+Subtraction ( - )
+Multiplication ( * )
+Division ( / )
+Modulus ( % ) - remainder
+Increment ( ++ ) - increases a variable by 1
+Decrement ( -- ) - decreases a variable by 1
+Exponentiation ( ** ) - this raises the first operand to the second operand; this shows the    same results as “Math.pow(z,y)”
+
+
+
+Assignment Operators
+An assignment operator basically assigns a value from the left operand to the right operand.
+
+TYPES of Assignment Operators:
+
+=
++= ; a = a + b
+-= ; a = a - b
+*= ; a = a * b
+/= ; a = a / b
+%= ; a = % b
+&= ; a = a & b (AND)
+|= ; a = a | b (OR)
+^= ; a = a ^ b (XOR)
+<<= ; a = a << b (left shift)
+>>= ; a = a >> b (right shift)
+>>>= ; a = a >>> b (unsigned right shift)
+
+
+** Bitwise OR, XOR, AND -  this uses binary representation of both operands.
+
+Example:
+		var meow = 9;	
+		meow &= 1;
+
+		9: 0000000000001001
+		1: 0000000000000001
+
+		AND = 1
+		OR = 0000000000001001
+		XOR = 0000000000001000
+
+** Left Shift, Right Shift, Unsigned Right Shift - this moves the specified bits and assigns the result to the variable.
+
+
+String Operators
+
+( + ) - this is used to concatenate (connect) strings.
+
+	Example:
+	var string1 = “chad”;
+	var string2 = “laban”;
+	var string3 = string1 + “ “ + string2;
+
+	Result:
+	chad laban
+
+(+=) - this can also be used in concatenating strings.
+
+Example:
+var string1 = “Chad is going ”;
+string 1 += “to fight!”;
+
+Result:
+Chad is going to fight!
+
+
+Comparison Operators
+Comparison operators are used to identify the difference between variables or values.
+
+TYPES of Comparison Operators:
+
+Equal to ( == )
+Equal value and equal type ( === )
+Not equal ( != )
+Not equal / not equal type ( !== )
+Greater than ( > )
+Less than ( < )
+Greater than or equal to ( >= )
+Less than or equal to ( <= )
+
+
+
+
+
+Logical Operators
+Logical operators are associated with Boolean values.
+
+TYPES of Logical Operators:
+AND ( && )
+OR ( || )
+NOT ( ! )
+
+
+Conditional / Ternary Operator
+This operator assigns a value to a variable that will have some condition.
+
+Syntax:
+variablename = (condition) ? value1:value2
+
+Type Operators
+“typeof” identifies the data type of a JavaScript variable.
+“Instanceof” identifies if the current object in the specified object type is true.
+
+
+JAVASCRIPT DATA TYPES
+Data types are the numbers, objects, strings, arrays, and others. Data types helps in operating with variables.
+Data types in JavaScript are Dynamic, meaning, a variable can hold different types of variables.
+A variable without any value is called “undefined”, but, this is different with a variable with an “empty value” (ex: var name = “”;), an empty value is considered legal and has a data type.
+Null, this is supposedly considered to be “nothing” but in JavaScript, Null is used to define an object is empty. What is the difference between Null and Undefined? A Null is still an object even if it has no value, undefined is still undefined whether having a value or not.
+
+Primitive Data
+
+String
+number 
+Boolean
+Undefined
+
+
+Complex Data
+Function
+Object
+
+Google Docs:
+https://docs.google.com/document/d/1Xeq_9yz9PKkBtYnvB-py1Y3KPCTxQ4gQb7379fWQTaU/edit?usp=sharing
+
+References:
+
+https://developer.mozilla.org/
+
+https://www.ibm.com/support/knowledgecenter/SSVRGU_9.0.1/reference/r_wpdr_elements_operators_assignment_r.html
+
+https://www.w3schools.com/js
+
+
