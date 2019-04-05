@@ -28,20 +28,20 @@
 						<td><a class="section1" href="#">JS Introduction</a></td>
 						<td>JS Functions</td>
 						<td>JS Array Iteration</td>
-						<td>JS Switch </td>
+						<td>JS Switch</td>
 					</tr>
 					<tr>
 						<td>JS Output</td>
 						<td>JS Objects</td>
 						<td>JS Dates</td>
-						<td>JS Loop For </td>
+						<td>JS Loop For</td>
 						
 					</tr>
 					<tr>
 						<td>JS Statements</td>
 						<td>JS Events</td>
 						<td>JS Date Formats</td>
-						<td>JS Loop While </td>
+						<td>JS Loop While</td>
 						
 					</tr>
 					<tr>
@@ -62,7 +62,7 @@
 						<td>JS Variables</td>
 						<td>JS Number</td>
 						<td>JS Math</td>
-						<td>JS Bitwise </td>
+						<td>JS Bitwise</td>
 						
 					</tr>
 					<tr>
@@ -73,24 +73,24 @@
 						
 					</tr>
 					<tr>
-						<td>JS Arithmentic</td>
+						<td>JS Arithmetic</td>
 						<td>JS Arrays</td>
 						<td>JS Booleans</td>
-						<td>JS this Keyword </td>
+						<td>JS this Keyword</td>
 						
 					</tr>
 					<tr>
 						<td>JS Assignment</td>
 						<td>JS Array Methods</td>
 						<td>JS Comparisons</td>
-						<td>JS Let </td>
+						<td>JS Let</td>
 						
 					</tr>
 					<tr>
 						<td>JS Data Types</td>
 						<td>JS Array Sort</td>
 						<td>JS Conditions</td>
-						<td>JS Const </td>
+						<td>JS Const</td>
 						
 					</tr>
 				</table>
@@ -101,17 +101,330 @@
 					Go back to top
 				</a>
 				<br>
-				<h2> JavaScript Introduction</h2><br>
-				<p> Javahahahahaha </p>
+				<h2> JavaScript Introduction</h2>
+				<p> Javascripts environment is very dynamic you can code your program inside your html codes.
+	            The script tag is very important in creating a java script which indicates that your Javascript function is already started each line of codes are called STATEMENTS like your java each statements ends with semi-colon (;). </p>
+
+                <h2>JavaScript Functions</h2>
+                <p> Set of statements that are combined together. Functions are the body of the code along with the variables.
+                <br /><br />
+                Example:
+                <br /><br />
+                    Function name()  {<br />
+                        //Code<br />
+                        }<br />
+                </p>
+                
+                <h2>JavaScript Array Iteration</h2>
+                <p> <b>Array.forEach()</b><br />
+                This is a callback function for each element inside a array.
+                <br /><br />
+                Example:
+                
+                <p id=”example”></p>
+               
+                var space= "";<br />
+                var arr = [5, 4, 3, 2, 1];<br />
+                numbers.forEach(mySample);<br />
+                document.getElementById("example").innerHTML = space;
+                <br /><br />
+                function mySample(value) {<br />
+                  space = space + value + "<br>";<br /> 
+                }
+                <br /><br />
+                Result:
+                <br /><br />
+                5<br />
+                4<br />
+                3<br />
+                2<br />
+                1<br />
+                <br /><br />
+                <b>Array.map()</b><br />
+                This method produces another array to perform the function given on each array element, this method will not execute if there are no values inside the array. 
+                
+                <p>Example:</p>
+                
+                var arr = [5, 4, 3, 2, 1];<br />
+                var arr2 = arr.map(mySample);<br />
+                document.getElementById("example").innerHTML = arr2;
+                <br /><br />
+                function mySample(value) {<br />
+                  Return value * 5;<br />
+                }
+                <br /><br />
+                Result:
+                <br /><br />
+                25,20,15,10,5
+                <br /><br />
+                <b>Array.filter() / every() / some()</b><br />
+                The filter() method produces and stores elements in another array that meets the standards of a function given. every() almost do the same functionalities, except, it returns a boolean value and checks if all elements inside the array complies with the given function. some() also has the same functionalities with every() but it only concerns other elements in the array.
+                
+                <p>Example:</p>
+                
+                var arr = [5, 4, 3, 2, 1];<br />
+                var less3 = arr.map(mySample);<br />
+                document.getElementById("example").innerHTML = less3;
+                <br /><br />
+                function mySample(value) {<br />
+                  Return value < 3;<br />
+                }
+                <br /><br />
+                Result:
+                <br /><br />
+                2,1 [ filter() ]<br />
+                false [ every() - it returned false because not all values inside the array are less than 3 ]<br />
+                true [ some() -  it returned true because some elements in the array are less than 3]<br />
+                <br /><br />
+                <b>Array.reduce()</b><br />
+                This method produces a value that consists of all the elements inside the array, this method follows a left-to-right rule when complying to a function. reduceRight() is the same as reduce() but it follows a right-to-left rule.
+                
+                <p>Example:</p>
+                
+                var arr = [5, 4, 3, 2, 1];<br />
+                var diff= arr.reduce(mySample);<br />
+                document.getElementById("example").innerHTML = “The difference is ” + diff;
+                <br /><br />
+                function mySample(total, value) {<br />
+                  Return total - value;<br />
+                }
+                <br /><br />
+                Result:
+                <br /><br />
+                -5 [ reduce() ]<br />
+                -13 [ reduceRight() ]
+                <br /><br />
+                <b>Array.indexOf() / lastIndexOf() / find()</b><br />
+                This indexOf() method looks for an element and returns the position of that element. lastIndexOf() searches an element from the end of the array. find() looks for an element that passes the requirements of the function given. </p>
+                
+                <h2>JavaScript Switch</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Output</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Objects</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Dates</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Loop For</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Statements</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Events</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Date Formats</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Loop While</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Syntax</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Strings</h2>
+                <p> <b>( + )</b> - this is used to concatenate (connect) strings.
+                <br /><br />
+                    Example:<br /><br />
+                    var string1 = “chad”;<br />
+                    var string2 = “laban”;<br />
+                    var string3 = string1 + “ “ + string2;<br />
+                <br /><br />
+                    Result:
+                    chad laban
+                <br />
+                <br />
+                <b>( += )</b> - this can also be used in concatenating strings.
+                <br />
+                Example:<br />
+                var string1 = “Chad is going ”;<br />
+                string 1 += “to fight!”;<br />
+                <br />
+                Result:<br />
+                Chad is going to fight!<br /> </p>
+                
+                <h2>JavaScript Date Get Methods</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Break</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Comments</h2>
+                <p>  </p>
+                
+                <h2>JavaScript String Methods</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Date Set Methods</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Type Conversion</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Variables</h2>
+                <p> In javaScript you can define variable in 2 different types you can define it as var or you can define it as let. Like java you can declare your variable and call it:
+                <br /><br />
+                var stmt = “Hello World”<br />
+                var stmt1;<br />
+                <br /><br />
+                <b>Global variables</b> are javascript codes that can be found outside the script tag where you can call it anytime.
+                <br /><br />
+                <b>Local variables</b> are codes that can be found inside a function, where in Only the Function can call it. </p>
+                
+                <h2>JavaScript Number</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Math</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Bitwise</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Operators</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Number Methods</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Random</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Scope</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Arithmetic</h2>
+                <p> An arithmetic operator in JavaScript includes a variable,literal, or expressions that will return a numeric value from an operand (the numbers that are used in between the operator).
+                <br /><br />
+                    Example:<br />
+                        var x = 75 + 75; (literals)<br />
+                        var x = y + z; (variables)<br />
+                        var x = (99 + 65) * y; (expressions)<br />
+                <br /><br />
+                <b>Types</b> of Arithmetic Operators:
+                <br />
+                1. Addition ( + )<br />
+                2. Subtraction ( - )<br />
+                3. Multiplication ( * )<br />
+                4. Division ( / )<br />
+                5. Modulus ( % ) - remainder<br />
+                6. Increment ( ++ ) - increases a variable by 1<br />
+                7. Decrement ( -- ) - decreases a variable by 1<br />
+                8. Exponentiation ( ** ) - this raises the first operand to the second operand; this shows the    same results as “Math.pow(z,y)” </p>
+                
+                <h2>JavaScript Arrays</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Booleans</h2>
+                <p>  </p>
+                
+                <h2>JavaScript "this" Keyword</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Assignment</h2>
+                <p> An assignment operator basically assigns a value from the left operand to the right operand.
+                <br /><br />
+                TYPES of Assignment Operators:
+                <br />
+                1. =<br />
+                2. += ; a = a + b<br />
+                3. -= ; a = a - b<br />
+                4. *= ; a = a * b<br />
+                5. /= ; a = a / b<br />
+                6. %= ; a = % b<br />
+                7. &= ; a = a & b (AND)<br />
+                8. |= ; a = a | b (OR)<br />
+                9. ^= ; a = a ^ b (XOR)<br />
+                10. <<= ; a = a << b (left shift)<br />
+                11. >>= ; a = a >> b (right shift)<br />
+                12. >>>= ; a = a >>> b (unsigned right shift)
+                <br /><br />
+                <b>Bitwise OR, XOR, AND -  this uses binary representation of both operands.</b>
+                <br /><br />
+                Example:<br />
+                        var meow = 9;<br />
+                        meow &= 1;<br />
+                <br />
+                        9: 0000000000001001<br />
+                        1: 0000000000000001<br />
+                <br />
+                        AND = 1
+                        OR = 0000000000001001<br />
+                        XOR = 0000000000001000<br />
+                <br />
+                <b>Left Shift, Right Shift, Unsigned Right Shift - this moves the specified bits and assigns the result to the variable.</b> </p>
+                
+                <h2>JavaScript Array Methods</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Comparisons</h2>
+                <p> Comparison operators are used to identify the difference between variables or values.
+                <br /><br />
+                <b>Types</b> of Comparison Operators:
+                <br /><br />
+                1. Equal to <b>( == )</b><br />
+                2. Equal value and equal type <b>( === )</b><br />
+                3. Not equal <b>( != )</b><br />
+                4. Not equal / not equal type <b>( !== )</b><br />
+                5. Greater than <b>( > )</b><br />
+                6. Less than <b>( < )</b><br />
+                7. Greater than or equal to <b>( >= )</b><br />
+                8. Less than or equal to <b>( <= )</b><br />
+                <br /><br />
+                <b>Logical operators</b> are associated with Boolean values.
+                <br /><br />
+                <b>Types</b> of Logical Operators:<br />
+                AND ( && )<br />
+                OR ( || )<br />
+                NOT ( ! )<br />
+                <br /><br />
+                <b>Conditional / Ternary Operator</b>
+                This operator assigns a value to a variable that will have some condition.
+                <br /><br />
+                Syntax:<br />
+                variablename = (condition) ? value1:value2
+                <br /><br />
+                <b>Type Operators</b>
+                “typeof” identifies the data type of a JavaScript variable.<br />
+                “Instanceof” identifies if the current object in the specified object type is true. </p>
+                    
+                <h2>JavaScript Let</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Data Types</h2>
+                <p> Data types are the numbers, objects, strings, arrays, and others. Data types helps in operating with variables. <br />
+                Data types in JavaScript are Dynamic, meaning, a variable can hold different types of variables.
+                A variable without any value is called “undefined”, but, this is different with a variable with an “empty value” (ex: var name = “”;), an empty value is considered legal and has a data type.<br />
+                Null, this is supposedly considered to be “nothing” but in JavaScript, Null is used to define an object is empty. What is the difference between Null and Undefined? A Null is still an object even if it has no value, undefined is still undefined whether having a value or not.
+                <br /><br />
+                <b>Primitive Data</b><br />
+                String<br />
+                number<br />
+                Boolean<br />
+                Undefined
+                <br /><br />
+                <b>Complex Data</b><br />
+                Function<br />
+                Object </p>
+                
+                <h2>JavaScript Array Sort</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Conditions</h2>
+                <p>  </p>
+                
+                <h2>JavaScript Const</h2>
+                <p>  </p>
 			</div>
 
 			<script src="js-app.js"></script>
 
-			
-
 		</div>
 	</div>
-</body>
 
 	<div class="footer">
  		<div class = "copyright">
