@@ -69,7 +69,8 @@ nav.html ul li a:hover {
 body#js-body {
 	margin: 0;
 	padding: 0;
-	font-family: noto sans kr regular;
+  font-family: noto sans kr regular;
+  background: whitesmoke;
 }
 
 #menu-js {
@@ -213,6 +214,160 @@ a.section2-partner {
     text-decoration: none;
 }
 
+
+.box5 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section5 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section5:hover {
+	color:  #00a7da;
+}
+
+a.section5-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+    transform: translateX(-50%);
+    text-decoration: none;
+}
+
+
+.box15 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section15 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section15:hover {
+	color:  #00a7da;
+}
+
+a.section15-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+    transform: translateX(-50%);
+    text-decoration: none;
+}
+
+.box25 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section25 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section25:hover {
+	color:  #00a7da;
+}
+
+a.section25-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+    transform: translateX(-50%);
+    text-decoration: none;
+}
+
+.box35 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section35 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section35:hover {
+	color:  #00a7da;
+}
+
+a.section35-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+    transform: translateX(-50%);
+    text-decoration: none;
+}
+
+.box26 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section26 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section26:hover {
+	color:  #00a7da;
+}
+
+a.section26-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+    transform: translateX(-50%);
+    text-decoration: none;
+}
+
+.box36 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section36 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section36:hover {
+	color:  #00a7da;
+}
+
+a.section36-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+    transform: translateX(-50%);
+    text-decoration: none;
+}
+
+
+
 .box7 {
 	height: 400vh;
 	display: block;
@@ -336,6 +491,237 @@ a.section31-partner {
     text-decoration: none;
 }
 
+.box8 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section8 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section8:hover {
+	color:  #00a7da;
+}
+
+a.section8-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+.box38 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section38 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section38:hover {
+	color:  #00a7da;
+}
+
+a.section38-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+.box9 {
+	height: 150vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section9 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section9:hover {
+	color:  #00a7da;
+}
+
+a.section9-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+.box29 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section29 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section29:hover {
+	color:  #00a7da;
+}
+
+a.section29-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+
+.box3 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section3 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section3:hover {
+	color:  #00a7da;
+}
+
+a.section3-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+.box13 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section13 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section13:hover {
+	color:  #00a7da;
+}
+
+a.section13-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+
+.box23 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section23 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section23:hover {
+	color:  #00a7da;
+}
+
+a.section23-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+
+.box24 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section24 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section24:hover {
+	color:  #00a7da;
+}
+
+a.section24-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+
+.box34 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section34 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section34:hover {
+	color:  #00a7da;
+}
+
+a.section34-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+
+
 .box11 {
 	height: 100vh;
 	display: block;
@@ -434,6 +820,56 @@ a.section33-partner {
 	left: 50%;
     transform: translateX(-50%);
     text-decoration: none;
+}
+
+.box14 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section14{
+	text-decoration: none;
+	color: white;
+}
+
+a.section14:hover {
+	color:  #00a7da;
+}
+
+a.section14-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+.box6 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section6{
+	text-decoration: none;
+	color: white;
+}
+
+a.section6:hover {
+	color:  #00a7da;
+}
+
+a.section6-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
 }
 
 p{
