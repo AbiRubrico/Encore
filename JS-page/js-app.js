@@ -43,6 +43,12 @@ section3.addEventListener('click', function(){
 	smoothScroll('.section3-partner', 500);
 });
 
+var section4 = document.querySelector('.section4');
+
+section4.addEventListener('click', function(){
+	smoothScroll('.section4-partner', 500);
+});
+
 var section5 = document.querySelector('.section5');
 
 section5.addEventListener('click', function(){
@@ -109,6 +115,30 @@ section15.addEventListener('click', function(){
 	smoothScroll('.section15-partner', 500);
 });
 
+var section17 = document.querySelector('.section17');
+
+section17.addEventListener('click', function(){
+	smoothScroll('.section17-partner', 500);
+});
+
+var section18 = document.querySelector('.section18');
+
+section18.addEventListener('click', function(){
+	smoothScroll('.section18-partner', 500);
+});
+
+var section19 = document.querySelector('.section19');
+
+section19.addEventListener('click', function(){
+	smoothScroll('.section19-partner', 500);
+});
+
+var section20 = document.querySelector('.section20');
+
+section20.addEventListener('click', function(){
+	smoothScroll('.section20-partner', 500);
+});
+
 var section21 = document.querySelector('.section21');
 
 section21.addEventListener('click', function(){
@@ -171,7 +201,6 @@ section33.addEventListener('click', function(){
 	smoothScroll('.section33-partner', 500);
 });
 
-
 var section34 = document.querySelector('.section34');
 
 section34.addEventListener('click', function(){
@@ -190,12 +219,30 @@ section36.addEventListener('click', function(){
 	smoothScroll('.section36-partner', 500);
 })
 
+var section37 = document.querySelector('.section37');
+
+section37.addEventListener('click', function(){
+	smoothScroll('.section37-partner', 500);
+});
+
 var section38 = document.querySelector('.section38');
 
 section38.addEventListener('click', function(){
 	smoothScroll('.section38-partner', 500);
 });
 
+var section39 = document.querySelector('.section39');
+
+section39.addEventListener('click', function(){
+	smoothScroll('.section39-partner', 500);
+});
+
+
+var section40 = document.querySelector('.section40');
+
+section40.addEventListener('click', function(){
+	smoothScroll('.section40-partner', 500);
+});
 
 
 				

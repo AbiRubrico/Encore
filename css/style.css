@@ -367,6 +367,81 @@ a.section36-partner {
 }
 
 
+.box37 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section37 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section37:hover {
+	color:  #00a7da;
+}
+
+a.section37-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+
+.box39 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section39 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section39:hover {
+	color:  #00a7da;
+}
+
+a.section39-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+.box19 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section19 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section19:hover {
+	color:  #00a7da;
+}
+
+a.section19-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
 
 .box7 {
 	height: 400vh;
@@ -392,6 +467,107 @@ a.section7-partner {
     transform: translateX(-50%);
     text-decoration: none;
 }
+
+.box17 {
+	height: 280vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section17 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section17:hover {
+	color:  #00a7da;
+}
+
+a.section17-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+.box18 {
+	height: 200vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section18 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section18:hover {
+	color:  #00a7da;
+}
+
+a.section18-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+.box40 {
+	height: 300vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section40 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section40:hover {
+	color:  #00a7da;
+}
+
+a.section40-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+.box20 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section20 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section20:hover {
+	color:  #00a7da;
+}
+
+a.section20-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
 .box10 {
 	height: 100vh;
 	display: block;
@@ -872,6 +1048,31 @@ a.section6-partner {
   text-decoration: none;
 }
 
+.box4 {
+	height: 220vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section4 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section4:hover {
+	color:  #00a7da;
+}
+
+a.section4-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
 p{
 	margin-left: 120px;
 	margin-right: 80px;
@@ -899,6 +1100,9 @@ button.start-button{
   font-family: arial;
 }
 
+button.start-button:hover{
+	background-color: #1b6d4c;
+}
 body.start{
 	background-color: #203746;
 }
@@ -931,6 +1135,11 @@ button.html-c{
   font-family: noto sans kr regular;
 }
 
+button.html-c:hover{
+	height: 250px;
+	width: 250px;
+}
+
 button.css-c{
   background-color: #32bc89;
   border: none;
@@ -946,6 +1155,11 @@ button.css-c{
   font-family: noto sans kr regular;
 }
 
+button.css-c:hover{
+	height: 250px;
+	width: 250px;
+}
+
 button.js-c{
   background-color: #00a7da;
   border: none;
@@ -959,6 +1173,11 @@ button.js-c{
   cursor: pointer;
   outline: none;
   font-family: noto sans kr regular;
+}
+
+button.js-c:hover{
+	height: 250px;
+	width: 250px;
 }
 
 table.circ-con{
@@ -1007,7 +1226,6 @@ td.circ{
 	font-family: ahaya libre;
 	font-size: 15px;
 	color: white;
-	margin-right: 30px;
 	height: 3rem;
 }
 
