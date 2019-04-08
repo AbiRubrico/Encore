@@ -140,9 +140,8 @@ table.js {
 	margin-top: 100px;
 	color: white;
 	text-align: center;
-
-	
 }
+
 
 td{
 	
@@ -1621,6 +1620,22 @@ button#next{
 .css-cont {
   position: absolute;
   margin-top: 100px;
-
+    
 }
-
+.picture{
+	width: 100%
+}
+.p1{
+  position: relative;
+  width: 50%;
+  float:left;
+  left: 17%;
+  
+}
+.p2 {
+  position: relative;
+  width: 50%;
+  float: right;
+  left: 8%;
+}
+   
