@@ -47,7 +47,7 @@ nav.html ul li a {
 	color: white;
 	padding: 15px 10px;
 	text-decoration: none;
-	font-size: 20px;
+	font-size 20px;
 	text-transform: uppercase;
 }
 
@@ -61,7 +61,7 @@ nav.html ul li a:hover {
 
 div.tabContainer{
 	width: 100%;
-	height: 500px;
+	height: 350px;
 }
 
 div.buttonsContainer{
@@ -87,7 +87,7 @@ div.buttonsContainer button{
 }
 
 div.tabPanel{ 
-	height: 85%;
+	height: 15%;
 	background-color: gray;
 	color: white;
 	text-align: center;
