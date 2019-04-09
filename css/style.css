@@ -85,6 +85,14 @@ div.buttonsContainer button{
 	background-color: #d7d4d4;
 }
 
+div.tabPanel{ 
+	height: 85%;
+	background-color: gray;
+	color: white;
+	text-align: center;
+	padding-top: 105px;
+	box-sizing: border-box;
+}
 /*JS STYLES -----------------------------------------------------------------------------------*/
 /*JS STYLES -----------------------------------------------------------------------------------*/
 /*JS STYLES -----------------------------------------------------------------------------------*/
