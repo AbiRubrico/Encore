@@ -86,7 +86,7 @@ div.buttonsContainer button:hover {
 }
 
 div.tabPanel{ 
-	height: 15%;
+	height: 75%;
 	background-color: gray;
 	color: white;
 	text-align: center;
