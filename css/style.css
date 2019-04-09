@@ -82,7 +82,7 @@ div.buttonsContainer button{
 	background-color: #eee;
 }
 
-div.buttonsContainer button{
+div.buttonsContainer button:hover {
 	background-color: #d7d4d4;
 }
 
