@@ -59,16 +59,16 @@ nav.html ul li a:hover {
  	background-color: #504b84;
  }
 
-.tabContainer{
+div.tabContainer{
 	width: 100%;
 	height: 500px;
 }
 
-.tabContainer .buttonsContainer{
+div.tabContainer .buttonsContainer{
 	height: 15%;
 }
 
-.tabContainer .buttonsContainer .button{
+div.tabContainer .buttonsContainer .button{
 	width: 25%;
 	height: 100%;
 	float: left;
