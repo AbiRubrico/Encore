@@ -68,7 +68,7 @@ div.buttonsContainer{
 	height: 15%;
 }
 
-div.buttonsContainer button:hover{
+div.buttonsContainer button{
 	width: 25%;
 	height: 100%;
 	float: left;
