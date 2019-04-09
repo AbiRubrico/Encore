@@ -9,5 +9,9 @@ function showPanel(panelIndex, colorCode){
 	});
 	tabButtons[panelIndex].style.backgroundColor=colorCode;
 	tabButtons[panelIndex].style.color="white";
-
+	tabPanels.forEach(function(node){
+		node.style.display="none";
+	});
+	tabPanels[panelIndex].style.display="block";
+	tabPanels[panelIndex].style.backgroundColor="colorCode";
 }
