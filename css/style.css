@@ -1232,7 +1232,7 @@ td.circ{
 /*CSS STYLES------------------------------------------------------------------------------------------*/
 /*CSS STYLES------------------------------------------------------------------------------------------*/
 
-#css-body {
+body#css-body {
   margin: 0;
   padding: 0;
   font-family: noto sans kr regular;
@@ -1248,56 +1248,48 @@ td.circ{
   border-bottom: 1px;
   height: 60px;
     box-shadow: 0 6px 3px -4px #333;
+	
 }
 
 #menu-css img {
-  float: left;
-  width: 150px;
-  height: 50px;
-  margin-top: 9px;
+	float: left;
+	width: 150px;
+	height: 50px;
+	margin-top: 9px;
 }
-
-img.encore{
-  height: 190px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 190px;
-}
-
 
 
 nav.css {
-  float: right;
-  position: relative
+	float: right;
+	position: relative
 }
 
 nav.css ul {
-  margin: 0;
-  padding: 0;
-  display: flex;
+	margin: 0;
+	padding: 0;
+	display: flex;
 }
 
 nav.css ul li {
-  list-style: none;
+	list-style: none;
 }
 
 nav.css ul li a {
-  display: block;
-  color: white;
-  padding: 15px 10px;
-  text-decoration: none;
-  font-size: 20px;
-  text-transform: uppercase;
+	display: block;
+	color: white;
+	padding: 15px 10px;
+	text-decoration: none;
+	font-size: 20px;
+	text-transform: uppercase;
 }
 
 nav.css ul li a:hover {
-  background-color: #39a07a;
+	background-color: #39a07a;
 }
 
  .active-css {
-  background-color: #39a07a;
-}
+ 	background-color: #39a07a;
+ }
 
 .css-content {
   background: #f4f5f4; 
