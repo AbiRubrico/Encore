@@ -60,10 +60,14 @@ nav.html ul li a:hover {
  }
 
 
+/*JS STYLES @author: Almayda, Audry Jane L. ----------------------------------------------------*/
 /*JS STYLES -----------------------------------------------------------------------------------*/
 /*JS STYLES -----------------------------------------------------------------------------------*/
 /*JS STYLES -----------------------------------------------------------------------------------*/
-
+p{
+	margin-left: 120px;
+	margin-right: 80px;
+}
 body#js-body {
 	margin: 0;
 	padding: 0;
@@ -901,6 +905,8 @@ a.section34-partner {
 	background-color: whitesmoke;
 }
 
+
+
 a.section11{
 	text-decoration: none;
 	color: white;
@@ -918,6 +924,114 @@ a.section11-partner {
 	left: 50%;
     transform: translateX(-50%);
     text-decoration: none;
+}
+
+.box16 {
+	height: 150vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section16 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section16:hover {
+	color:  #00a7da;
+}
+
+a.section16-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+.box27 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section27 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section27:hover {
+	color:  #00a7da;
+}
+
+a.section27-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+.box27 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section27 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section27:hover {
+	color:  #00a7da;
+}
+
+
+a.section27-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+.box28 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section28 {
+	text-decoration: none;
+	color: white;
+}
+
+a.section28:hover {
+	color:  #00a7da;
+}
+
+a.section28-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+}
+
+
+.box11 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
 }
 
 .box12 {
@@ -969,6 +1083,32 @@ a.section32-partner {
     transform: translateX(-50%);
     text-decoration: none;
 }
+
+.box30 {
+	height: 100vh;
+	display: block;
+	background-color: whitesmoke;
+}
+
+a.section30{
+	text-decoration: none;
+	color: white;
+}
+
+a.section30:hover {
+	color:  #00a7da;
+}
+
+a.section30-partner {
+	margin-top: 20px;
+	color: #3870c9;
+	position: absolute;
+	float: left;
+	left: 50%;
+    transform: translateX(-50%);
+    text-decoration: none;
+}
+
 
 .box33 {
 	height: 160vh;
@@ -1071,13 +1211,15 @@ a.section4-partner {
 }
 
 p{
-	margin-left: 0px;
+	margin-left: 120px;
 	margin-right: 80px;
 }
 
+/*INDEX STYLES @author: Almayda, Audry Jane L. -----------------------------------------------*/
 /*INDEX STYLES--------------------------------------------------------------------------------*/
 /*INDEX STYLES--------------------------------------------------------------------------------*/
 /*INDEX STYLES--------------------------------------------------------------------------------*/
+
 
 button.start-button{
   background-color: #008d89;
@@ -1112,7 +1254,7 @@ img.encore{
 	margin-top: 190px;
 }
 
-
+/*HOME STYLES @author: Almayda, Audry Jane L. ---------------------------------------------*/
 /*HOME STYLES------------------------------------------------------------------------------*/
 /*HOME STYLES------------------------------------------------------------------------------*/
 /*HOME STYLES------------------------------------------------------------------------------*/
@@ -1195,6 +1337,8 @@ td.circ{
 }
 
 
+
+/*SAME STYLES @author: Almayda, Audry Jane L. ------------------------------------------------------*/
 /*SAME STYLES---------------------------------------------------------------------------------------*/
 /*SAME STYLES---------------------------------------------------------------------------------------*/
 /*SAME STYLES---------------------------------------------------------------------------------------*/
@@ -1225,6 +1369,7 @@ td.circ{
 	color: white;
 	height: 3rem;
 }
+
 
 
 
