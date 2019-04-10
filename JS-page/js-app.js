@@ -1,3 +1,7 @@
+
+
+/** @author: Almayda, Audry Jane : **/
+
 function smoothScroll(target,duration){
 	var target = document.querySelector(target);
 	var targetPosition = target.getBoundingClientRect().top;
@@ -115,6 +119,13 @@ section15.addEventListener('click', function(){
 	smoothScroll('.section15-partner', 500);
 });
 
+var section16 = document.querySelector('.section16');
+
+section16.addEventListener('click', function(){
+	smoothScroll('.section16-partner', 500);
+});
+
+
 var section17 = document.querySelector('.section17');
 
 section17.addEventListener('click', function(){
@@ -176,11 +187,28 @@ section26.addEventListener('click', function(){
 	smoothScroll('.section26-partner', 500);
 });
 
+var section27 = document.querySelector('.section27');
+
+section27.addEventListener('click', function(){
+	smoothScroll('.section27-partner', 500);
+});
+
+var section28 = document.querySelector('.section28');
+
+section28.addEventListener('click', function(){
+	smoothScroll('.section28-partner', 500);
+});
 
 var section29 = document.querySelector('.section29');
 
 section29.addEventListener('click', function(){
 	smoothScroll('.section29-partner', 500);
+});
+
+var section30 = document.querySelector('.section30');
+
+section30.addEventListener('click', function(){
+	smoothScroll('.section30-partner', 500);
 });
 
 var section31 = document.querySelector('.section31');
