@@ -1,3 +1,7 @@
 
+HTML History
 
+*Hyper Text Markup Language or HTML was created by Tim Berners-Lee in the late 1990's. HTML was initially developed at Conseil Européen pour la Recherche Nucléaire, with the english translation European Organization for Nuclear Research (CERN), was then developed in Internet Engineering Task Force (IETF), World Wide Web Consortium (W3C) and then to  Web Hypertext Application Technology Working Group (WHATWG). 
+
+*HTML defines the composition of a web page using markup. A markup is an apporach wherein it decribes how the content should be displayed.
 https://www.w3schools.com/html/html_intro.asp
