@@ -14,4 +14,7 @@ HTML:
 
 HTML 2.0:
 > This version was the standard during the rise of WWW. Along with the previous features of the first version, HTML 2.0 added new features like, Forms, Image, Line Break etc.
+
+HTML 3.2:
+> In 1997, HTML 3.2 was created with the agreement to remove decorative text attributes like <marquee> and <blink>. This was also the year where early browsers, IE and Netscapes approved of this HTML version.
 https://www.w3schools.com/html/html_intro.asp
