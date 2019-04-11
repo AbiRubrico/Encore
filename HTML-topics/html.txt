@@ -26,15 +26,80 @@ XHTML:
 > XHTML was created to provide interoperability with HTML and XML-based systems. This was also in lieu with the usage of XML tools in editing and creating.
 
 
-
-
 **************************************************
-
 HTML Document Structure
 > HTML has 2 components
-**************************************************
 
+
+
+
+**************************************************
 HTML Document Components
+
+
+
+
+
 https://html.com/document/
 https://www.w3schools.com/html/html_intro.asp
 https://blog.rackspace.com/internet-history-html-evolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
