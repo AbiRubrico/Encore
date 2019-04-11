@@ -13,5 +13,5 @@ HTML:
 * Title tag, Next ID tag, Base Adress, Anchors, Sections, Paragraphs, Headings*
 
 HTML 2.0:
-> 
+> This version was the standard during the rise of WWW. Along with the previous features of the first version, HTML 2.0 added new features like, Forms, Image, Line Break etc.
 https://www.w3schools.com/html/html_intro.asp
