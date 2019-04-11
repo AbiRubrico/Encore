@@ -4,4 +4,33 @@ HTML History
 *Hyper Text Markup Language or HTML was created by Tim Berners-Lee in the late 1990's. HTML was initially developed at Conseil Européen pour la Recherche Nucléaire, with the english translation European Organization for Nuclear Research (CERN), was then developed in Internet Engineering Task Force (IETF), World Wide Web Consortium (W3C) and then to  Web Hypertext Application Technology Working Group (WHATWG). 
 
 *HTML defines the composition of a web page using markup. A markup is an apporach wherein it decribes how the content should be displayed.
+
+
+HTML Version history:
+
+HTML:
+> The prestandardization of HTML was limited. HTML tags were created to defined content for webpages. This inluded with 20 elements.
+* Title tag, Next ID tag, Base Adress, Anchors, Sections, Paragraphs, Headings*
+
+HTML 2.0:
+> This version was the standard during the rise of WWW. Along with the previous features of the first version, HTML 2.0 added new features like, Forms, Image, Line Break etc.
+
+HTML 3.2:
+> In 1997, HTML 3.2 was created with the agreement to remove decorative text attributes like <marquee> and <blink>. This was also the year where early browsers, IE and Netscapes, approved of this HTML version.
+
+HTML 4.0 and 4.01:
+> HTML 4.0 was launched in December 1997 with the name Cougar. HTML 4.0 supports the option given by the previous HTML versions, scripting languages, stylesheets. 
+>HTML 4.0 was then approved to be HTML 4.01 that supports presentational elements, like fonts and colors.
+
+XHTML:
+> XHTML was created to provide interoperability with HTML and XML-based systems. This was also in lieu with the usage of XML tools in editing and creating.
+
+
+
+
+**************************************************
+
+HTML Document Structure
+https://html.com/document/
 https://www.w3schools.com/html/html_intro.asp
+https://blog.rackspace.com/internet-history-html-evolution
