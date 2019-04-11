@@ -45,6 +45,8 @@ HTML Document Structure
 
 "DOCTYPE" - This declaration says to the browser what version of HTML the page is written in.
 "html" - This tag tells the local browser that it is an HTML document. The html tag is with an attribute lang that specifies the language of the content of the page.
+"head" - This tag states information about the HTML document. After the head tag, it is usually followed by the meta tag, wherein this tag says the character encoding (i.e uft-8). The first character encoding standard was ASCII. ASCII have 128 defined charaters, namely, English letters numbers, and special characters. 
+
 **************************************************
 HTML Document Components
 
