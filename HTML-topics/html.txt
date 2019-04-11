@@ -24,4 +24,5 @@ HTML 4.0 and 4.01:
 
 XHTML:
 > XHTML was created to provide interoperability with HTML and XML-based systems. This was also in lieu with the usage of XML tools in editing and creating.
+
 https://www.w3schools.com/html/html_intro.asp
