@@ -21,4 +21,7 @@ HTML 3.2:
 HTML 4.0 and 4.01:
 > HTML 4.0 was launched in December 1997 with the name Cougar. HTML 4.0 supports the option given by the previous HTML versions, scripting languages, stylesheets. 
 >HTML 4.0 was then approved to be HTML 4.01 that supports presentational elements, like fonts and colors.
+
+XHTML:
+> XHTML was created to provide interoperability with HTML and XML-based systems. This was also in lieu with the usage of XML tools in editing and creating.
 https://www.w3schools.com/html/html_intro.asp
