@@ -9,7 +9,9 @@ HTML History
 HTML Version history:
 
 HTML:
-> The prestandardization of HTML was limited. HTML tags were created to defined content for webpages. 
+> The prestandardization of HTML was limited. HTML tags were created to defined content for webpages. This inluded with 20 elements.
 * Title tag, Next ID tag, Base Adress, Anchors, Sections, Paragraphs, Headings*
 
+HTML 2.0:
+> 
 https://www.w3schools.com/html/html_intro.asp
