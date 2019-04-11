@@ -59,7 +59,8 @@ nav.html ul li a:hover {
  	background-color: #504b84;
  }
 
-#nav-bar2{
+#nav-bar2 ul li{
+	padding: 10px
 	
 }
 /*JS STYLES @author: Almayda, Audry Jane L. ----------------------------------------------------*/
