@@ -16,5 +16,9 @@ HTML 2.0:
 > This version was the standard during the rise of WWW. Along with the previous features of the first version, HTML 2.0 added new features like, Forms, Image, Line Break etc.
 
 HTML 3.2:
-> In 1997, HTML 3.2 was created with the agreement to remove decorative text attributes like <marquee> and <blink>. This was also the year where early browsers, IE and Netscapes approved of this HTML version.
+> In 1997, HTML 3.2 was created with the agreement to remove decorative text attributes like <marquee> and <blink>. This was also the year where early browsers, IE and Netscapes, approved of this HTML version.
+
+HTML 4.0 and 4.01:
+> HTML 4.0 was launched in December 1997 with the name Cougar. HTML 4.0 supports the option given by the previous HTML versions, scripting languages, stylesheets. 
+>HTML 4.0 was then approved to be HTML 4.01 that supports presentational elements, like fonts and colors.
 https://www.w3schools.com/html/html_intro.asp
