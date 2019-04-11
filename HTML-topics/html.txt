@@ -31,6 +31,8 @@ XHTML:
 **************************************************
 
 HTML Document Structure
+> HTML has 2 components
+
 https://html.com/document/
 https://www.w3schools.com/html/html_intro.asp
 https://blog.rackspace.com/internet-history-html-evolution
