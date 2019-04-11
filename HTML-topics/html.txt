@@ -54,7 +54,17 @@ HTML Document Structure
 **************************************************
 HTML Document Components
 
-
+Document Type declaration
+Elements
+>Tags
+>Content
+>Attributes
+	>Global Attributes
+	>Custom Non-Visible Data Attributes
+	>WAI-ARIA attributes
+	>Element specific attibutes 
+Character refrences
+comments
 
 
 
