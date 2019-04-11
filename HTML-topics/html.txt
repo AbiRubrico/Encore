@@ -32,9 +32,9 @@ HTML Document Structure
 <html lang="en">
 
 	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheets" href="style.css">
 		<title>HTML</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" type="text/css" href="../css/style.css">
 	</head>
 
 	<body id="html-body">
@@ -46,6 +46,10 @@ HTML Document Structure
 "DOCTYPE" - This declaration says to the browser what version of HTML the page is written in.
 "html" - This tag tells the local browser that it is an HTML document. The html tag is with an attribute lang that specifies the language of the content of the page.
 "head" - This tag states information about the HTML document. After the head tag, it is usually followed by the meta tag, wherein this tag says the character encoding (i.e uft-8). The first character encoding standard was ASCII. ASCII have 128 defined charaters, namely, English letters numbers, and special characters. 
+"link" - this tag connects to a separate css file.
+"title" - defines the title of your content.
+"body" - this is where you write the whole content of your page. 
+
 
 **************************************************
 HTML Document Components
