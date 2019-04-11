@@ -1494,6 +1494,7 @@ button#next{
   background-color: #32bc89; 
   color: white; 
   border: 2px solid white;
+ margin-left: 60px;
 }
 
 .button1:hover {
@@ -1591,6 +1592,7 @@ button#next{
   background-color: #32bc89; 
   color: white; 
   border: 2px solid white;
+    margin-left: 70px;
 }
 
 .button10:hover {
@@ -1602,6 +1604,8 @@ button#next{
   background-color: #32bc89; 
   color: white; 
   border: 2px solid white;
+    margin-left: 60px;
+
 }
 
 .button11:hover {
@@ -1613,6 +1617,8 @@ button#next{
    background-color: #32bc89; 
   color: white; 
   border: 2px solid white;
+  margin-left: 45px;
+  margin-right: 25px;
 }
 
 .button12:hover {
@@ -1624,6 +1630,7 @@ button#next{
   background-color: #32bc89; 
   color: white; 
   border: 2px solid white;
+  margin-right: 30px;
 }
 
 .button13:hover {
@@ -1635,6 +1642,7 @@ button#next{
   background-color: #32bc89; 
   color: white; 
   border: 2px solid white;
+  
 }
 
 .button14:hover {
@@ -1646,6 +1654,7 @@ button#next{
   background-color: #32bc89; 
   color: white; 
   border: 2px solid white;
+  margin-left: 60px;
 }
 
 .button15:hover {
@@ -1657,6 +1666,7 @@ button#next{
   background-color: #32bc89; 
   color: white; 
   border: 2px solid white;
+  margin-left: 60px;
 }
 
 .button16:hover {
@@ -1690,6 +1700,7 @@ button#next{
   background-color: #32bc89; 
   color: white; 
   border: 2px solid white;
+  margin-left: 50px;
 }
 
 .button19:hover {
@@ -1701,11 +1712,13 @@ button#next{
   background-color: #32bc89; 
   color: white; 
   border: 2px solid white;
+  margin-left: 100px;
 }
 
 .button20:hover {
    background-color: #50C878;
   color: white;
+
 }
 
 .button21 {
@@ -1723,6 +1736,7 @@ button#next{
   background-color: #32bc89; 
   color: white; 
   border: 2px solid white;
+  margin-right: 10px;
 }
 
 .button22:hover {
@@ -1734,6 +1748,7 @@ button#next{
   background-color: #32bc89; 
   color: white; 
   border: 2px solid white;
+  margin-right: 10px;
 }
 
 .button23:hover {
