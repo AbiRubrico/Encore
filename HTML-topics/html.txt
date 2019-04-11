@@ -40,9 +40,11 @@ HTML Document Structure
 	<body id="html-body">
 		<!-- your intended content -->
 	</body>
-	
+
 </html>
 
+"DOCTYPE" - This declaration says to the browser what version of HTML the page is written in.
+"html" - This tag tells the local browser that it is an HTML document. The html tag is with an attribute lang that specifies the language of the content of the page.
 **************************************************
 HTML Document Components
 
