@@ -59,10 +59,24 @@ nav.html ul li a:hover {
  	background-color: #504b84;
  }
 
-#nav-bar2 ul li{
-	padding: 10px;
-	border: 10px solid blue;
+.sidebarmenu{
+	height: 100%;
+  	width: 250px;
+  	position: absolute;
+  	left: 0;
+ 	background-color: #111;
+  	overflow-x: hidden;
+  	padding-top: 20px;
 }
+
+.sidebarmenu a {
+	padding: 6px 8px 6px 16px;
+  	text-decoration: none;
+  	font-size: 25px;
+  	color: #818181;
+  	display: block;
+}
+
 /*JS STYLES @author: Almayda, Audry Jane L. ----------------------------------------------------*/
 /*JS STYLES -----------------------------------------------------------------------------------*/
 /*JS STYLES -----------------------------------------------------------------------------------*/
