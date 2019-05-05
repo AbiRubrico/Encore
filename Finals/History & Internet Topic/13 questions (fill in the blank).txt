@@ -1,0 +1,38 @@
+What do you call the software to search the world wide web?
+(Browser)
+
+What is the Internet?
+(World Wide Web)
+
+What is the website's address called?
+(URL -Uniform Resource Locator)
+
+What is the Internet Country Code for the Philippines?
+(.ph)
+
+He was the man who orchestrated the term "Web 2.0".
+(Dale Dougherty)
+
+What does HTTPS stand for?
+(HyperText Transfer Protocol Secure)
+
+What does ISP stand for?
+(Internet Service Provider)
+
+It is where the data in the WWW can be accessed by computers connected to the internet.
+(Web Server)
+
+It is a temporary storage for websites to store pages that were recently opened.
+(Cache)
+
+Who proposed the World Wide Web?
+(Tim Berners Lee)
+
+What does TCP stand for?
+(Transmission Control Protocol)
+
+The internet is an interconnected system of __ ?
+(Networks)
+
+It is a collection of web pages.
+(Website)
